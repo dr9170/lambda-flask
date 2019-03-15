@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "prueba.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "prueba",
+        "runtime": "python3.6",
+	"slim_handler": "true",
+        "s3_bucket": "zappa-231f3123td"
+    }
+}
