@@ -1,6 +1,6 @@
 {
     "dev": {
-        "app_function": "app.app",
+        "app_function": "prueba.app",
         "aws_region": "us-east-1",
         "profile_name": "default",
         "project_name": "dev",
